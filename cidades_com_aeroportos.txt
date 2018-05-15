@@ -1,0 +1,171 @@
+Acre
+
+Aeroporto Internacional de Cruzeiro do Sul (CZS/SBCZ) – Cruzeiro do Sul
+Aeroporto Internacional Presidente Médici (RBR/SBRB) – Rio Branco
+
+Alagoas
+
+Aeroporto Internacional Zumbi dos Palmares (MCZ/SBMO) – Maceió
+
+Amapá
+
+Aeroporto Internacional de Macapá (MCP/SBMQ) – Macapá
+
+Amazonas
+
+Aeroporto de Tefé (TFF/SBTF) – Tefé
+Aeroporto Internacional de Tabatinga (TBT/SBTT) – Tabatinga
+Aeroporto Internacional Eduardo Gomes (MAO/SBEG) – Manaus
+
+Bahia
+
+Aeroporto de Bom Jesus da Lapa (LAZ/SBLZ) – Bom Jesus da Lapa
+Aeroporto Jorge Amado (IOS/SBIL) – Ilhéus
+Aeroporto de Paulo Afonso (PAV/SBUF) – Paulo Afonso
+Aeroporto Internacional Dep. Luís Eduardo Magalhães (SSA/SBSV) – Salvador
+
+Ceará
+
+Aeroporto Internacional Pinto Martins (FOR/SBFZ) – Fortaleza
+Aeroporto Regional do Cariri (JDO/SBJU) – Juazeiro do Norte
+
+Distrito Federal
+
+Aeroporto Internacional Juscelino Kubitschek (BSB/SBBR) – Brasília
+
+Espírito Santo
+
+Aeroporto Eurico de Aguiar Salles (VIX/SBVT) – Vitória
+
+Goiás
+
+Aeroporto Santa Genoveva (GYN/SBGO) – Goiânia
+Aeroporto de Caldas Novas (CLV/SBCN) – Caldas Novas
+
+Maranhão
+
+Aeroporto de Imperatriz (IMP/SBIZ) – Imperatriz
+Aeroporto Internacional Marechal Cunha Machado (SLZ/SBSL) – São Luís
+
+Aeroporto de Alcântara (QAH/SNCW) – Alcântara
+
+Mato Grosso
+
+Aeroporto Internacional Marechal Rondon (CGB/SBCY) – Várzea Grande/Cuiabá
+
+Mato Grosso do Sul
+
+Aeroporto Internacional de Campo Grande (CGR/SBCG) – Campo Grande
+Aeroporto Internacional de Corumbá (CMG/SBCR) – Corumbá
+Aeroporto Internacional de Ponta Porã (PMG/SBPP) – Ponta Porã
+
+Minas Gerais
+
+Aeroporto César Bombonato (UDI/SBUL) – Uberlândia
+Aeroporto Internacional Tancredo Neves (CNF/SBCF) – Confins/Belo Horizonte
+Aeroporto da Pampulha – Carlos Drummond de Andrade (PLU/SBBH) – Belo Horizonte
+Aeroporto Carlos Prates (SBPR) – Belo Horizonte
+Aeroporto de Montes Claros (MOC/SBMK) – Montes Claros
+Embaixador Walther Moreira Salles (POO/SBPC) – Poços de Caldas
+Aeroporto Mário de Almeida Franco (UBA/SBUR) – Uberaba
+
+Paraíba
+
+Aeroporto Internacional Presidente Castro Pinto (JPA/SBJP) – João Pessoa
+Aeroporto Presidente João Suassuna (CPV/SBKG) – Campina Grande
+
+Pará
+
+Aeroporto de Altamira (ATM/SBHT) – Altamira
+Aeroporto Internacional de Belém/Val de Cans (BEL/SBBE) – Belém
+Aeroporto Júlio Cesar (SBJC) – Belém
+Aeroporto de Marabá (MAB/SBMA) – Marabá
+Aeroporto de Carajás (CKS/SBCJ) – Parauapebas
+Aeroporto de Santarém/Maestro Wilson Fonseca (STM/SBSN) – Santarém
+
+Paraná
+
+Aeroporto de Londrina (LDB/SBLO) – Londrina
+Aeroporto Internacional Afonso Pena (CWB/SBCT) – São José dos Pinhais/Curitiba
+Aeroporto de Bacacheri (BFH/SBBI) – Curitiba
+Aeroporto Internacional Cataratas (IGU/SBFI) – Foz do Iguaçu
+
+Pernambuco
+
+Aeroporto de Petrolina – (Aeroporto Internacional Senador Nilo Coelho) (PNZ/SBPL) – (Petrolina)
+Aeroporto Internacional dos Guararapes Gilberto Freyre (REC/SBRF) – Recife
+
+Piauí
+
+Aeroporto Internacional Prefeito Dr.João Silva Filho (PHB/SBPB) – Parnaíba
+Aeroporto Senador Petrônio Portella (THE/SBTE) – Teresina
+
+Rio de Janeiro
+
+Aeroporto de Campos dos Goytacazes (CAW/SBCP) – Campos dos Goytacazes
+Aeroporto de Macaé (MEA/SBME) – Macaé
+Aeroporto Internacional do Rio de Janeiro – Antônio Carlos Jobim (GIG/SBGL) – Rio de Janeiro
+Aeroporto Santos Dumont (SDU/SBRJ) – Rio de Janeiro
+Aeroporto de Jacarepaguá (***/SBJR) – Rio de Janeiro (cidade)
+
+Rio Grande do Norte
+
+Aeroporto Internacional Augusto Severo (NAT/SBNT) – Parnamirim/Natal
+
+Rio Grande do Sul
+
+Aeroporto Internacional Comandante Gustavo Kraemer (BGX/SBBG) – Bagé
+Aeroporto Internacional de Pelotas (PET/SBPK) – Pelotas
+Aeroporto Internacional Salgado Filho (POA/SBPA) – Porto Alegre
+Aeroporto Internacional Rubem Berta (URG/SBUG) – Uruguaiana
+
+Rondônia
+
+Infraero
+Aeroporto Internacional Governador Jorge Teixeira (PVH/SBPV) – Porto Velho
+
+Municipais
+Aeroporto Nova Vida (SWNI) – Ariquemes
+Aeroporto Tabajara (SWTB) – Ariquemes
+Aeroporto Brigadeiro Camarão (BVH/SBVH) – Vilhena
+Aeroporto de Cacoal (OAL/SWKK) – Cacoal
+Aeroporto de Costa Marques (SWCQ) – Costa Marques
+Aeroporto de Guajará-Mirim (GJM/SBGM) – Guajará-Mirim
+Aeroporto de Ji-Paraná (JPR/SWJI) – Ji-Paraná
+Aeroporto de Pimenta Bueno (SWPM) – Pimenta Bueno
+
+Roraima
+
+Infraero
+Aeroporto Internacional de Boa Vista – Atlas Brasil (BVB/SBBV) – Boa Vista
+
+Municipais
+Aeroporto Surucucu (SWUQ) – Alto Alegre
+Aeroporto Uaicas (SWAE) – Alto Alegre
+Aeroporto Auaris (SWBV) – Amajari
+Aeroporto de Caracaraí (**/SBQI) – Caracaraí
+Aeroporto de Mucajaí (SWMV) – Mucajaí
+Aeroporto de Pacaraima (SWMU) – Pacaraima
+
+Santa Catarina
+
+Aeroporto Internacional Hercílio Luz (FLN/SBFL) – Florianópolis
+Aeroporto Internacional Ministro Victor Konder (NVT/SBNF) – Navegantes
+Aeroporto Lauro Carneiro de Loyola (JOI/SBJV) – Joinville
+Aeroporto de Forquilhinha (CCM/SBCM) – Forquilhinha/Criciúma
+
+São Paulo
+
+Aeroporto Campo de Marte (MAE/SBMT) – São Paulo
+Aeroporto de Congonhas/São Paulo (CGH/SBSP) – São Paulo
+Aeroporto Internacional de São Paulo-Guarulhos (GRU/SBGR) – Guarulhos / São Paulo
+Aeroporto Internacional de Viracopos-Campinas (VCP/SBKP) – Campinas
+Aeroporto de São José dos Campos (SJK/SBSJ) – São José dos Campos
+
+Sergipe
+
+Aeroporto Internacional de Aracaju (AJU/SBAR) – Aracaju
+
+Tocantins
+
+Aeroporto de Palmas (PMW/SBPJ) – Palmas
