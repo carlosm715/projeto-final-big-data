@@ -1,14 +1,14 @@
 
 # coding: utf-8
 
-# In[1]:
+# In[45]:
 
 
 import os
-from pandas import DataFrame
+from pandas import DataFrame, Series
 
 
-# In[2]:
+# In[46]:
 
 
 def recuperar_tuplas_de_bases_climaticas(caminho_arquivos):
@@ -20,7 +20,7 @@ def recuperar_tuplas_de_bases_climaticas(caminho_arquivos):
         c = caminho_arquivos + i
         filepath.append(c)
 
-    tuplas_por_arquivo = dict()
+    tuplas = []
 
     for nome_arquivo in filepath:
         arquivo = open(nome_arquivo,mode = 'r')
@@ -30,7 +30,6 @@ def recuperar_tuplas_de_bases_climaticas(caminho_arquivos):
         inicio_tabela = False
 
         headers = []
-        tuplas = []
         for linha in linhas:
             if not inicio_tabela:
                 if linha.find('Latitude') == 0:
@@ -48,19 +47,29 @@ def recuperar_tuplas_de_bases_climaticas(caminho_arquivos):
                 tupla['Latitude'] = latitude
                 tupla['Longitude'] = longitude
                 tuplas.append(tupla)
-        tuplas_por_arquivo[nome_arquivo] = tuplas
-    return tuplas_por_arquivo
+        
+    return tuplas
 
 
 
 
-# In[10]:
+# In[47]:
 
 
 def recuperar_data_frame_de_tuplas(caminho_arquivos):
-    tuplas_por_arquivo = recuperar_tuplas_de_bases_climaticas(caminho_arquivos)
-    data_frame = DataFrame()
-    for tuplas in tuplas_por_arquivo.values():
-        data_frame.append(DataFrame.from_dict(tuplas))
+    tuplas = recuperar_tuplas_de_bases_climaticas(caminho_arquivos)
+    data_frame = DataFrame(tuplas)
     return data_frame
+
+
+# In[48]:
+
+
+tuples = recuperar_data_frame_de_tuplas('resource/climahistorico/')
+
+
+# In[49]:
+
+
+tuples
 
